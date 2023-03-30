@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_MicroAssignment/static/css/main.eb5f54cb.css",
+    "main.js": "/react_MicroAssignment/static/js/main.66b81a6d.js",
+    "index.html": "/react_MicroAssignment/index.html",
+    "main.eb5f54cb.css.map": "/react_MicroAssignment/static/css/main.eb5f54cb.css.map",
+    "main.66b81a6d.js.map": "/react_MicroAssignment/static/js/main.66b81a6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5f54cb.css",
+    "static/js/main.66b81a6d.js"
+  ]
+}
