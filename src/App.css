@@ -1,0 +1,69 @@
+*{
+  font-family: sans-serif;
+}
+.box{
+  background-color: rgb(88, 143, 198);
+  margin:10% 5%;
+  border-radius: 6px;
+  padding: 5% 7%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.box .learn-code{
+  width:40%;
+  color: white;
+}
+.box .form{
+  width:60%;
+}
+.subscription{
+  background-color: rgb(201, 45, 45);
+  color: white;
+  border-radius: 7px;
+  text-align: center;
+  padding:15px;
+  box-shadow: 0px 10px 5px rgba(57, 40, 40, 0.9);
+}
+.main-form{
+    background-color: white;
+    padding:10px 20px;
+    border-radius: 7px;
+    box-shadow: 0px 10px 5px rgba(57, 40, 40, 0.9);
+}
+.form .main-form .input{
+  width:80%;
+  height:50px;
+  border-radius: 7px;
+  padding:0px 0px 0px 30px;
+  border: 2px solid gray;
+  margin:10px 0px;
+}
+.span{
+  background-color: rgb(221, 221, 221);
+  padding:6px 20px;
+  border-radius: 50px;
+  font-size: 12px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+  position:relative;
+}
+.span button{
+  position: absolute;
+  border:none;
+  background-color: rgb(221, 221, 221);
+  float: right;
+  border-radius: 50px;
+}
+.button{
+  width:85%;
+  height:50px;
+  text-align: center;
+  color:white
+}
+.button:disabled{
+  background-color: rgb(163, 154, 154);
+}
+.button:enabled{
+  background-color: rgb(22, 133, 22);
+}
